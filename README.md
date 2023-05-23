@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Jaimy Putter, I started programming since I was 12.
 - Gratuated from [Mediacollege Amsterdam](https://www.ma-web.nl/opleidingen/opleidingsoverzicht/softwaredeveloper/) as Game Developer
+- Currently studying Applied Physics at [Amsterdam University of Applied Sciences ](https://www.hva.nl/opleidingen/technische-natuurkunde?gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW8J6TSsLU0mG2vc42vCjFNsoCOHChlRrnTe1n4uLo-vQi24qGCHGSgaAt7mEALw_wcB)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Spraxs&show_icons=true&theme=radical)
 
