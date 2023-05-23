@@ -4,8 +4,6 @@ My name is Jaimy Putter.
 - 🔬 I'm currently studying Applied Physics at [Amsterdam University of Applied Sciences ](https://www.hva.nl/opleidingen/technische-natuurkunde?gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW8J6TSsLU0mG2vc42vCjFNsoCOHChlRrnTe1n4uLo-vQi24qGCHGSgaAt7mEALw_wcB)
 - ⚡ Fun fact: I started programming at the age of 12
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Spraxs&show_icons=true&theme=radical)
-
 <!--
 **Spraxs/spraxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
