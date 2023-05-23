@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jaimy Putter, and
+My name is Jaimy Putter.
 - 🎮 I gratuated from [Mediacollege Amsterdam](https://www.ma-web.nl/opleidingen/opleidingsoverzicht/softwaredeveloper/) as Game Developer
 - 🔬 I'm currently studying Applied Physics at [Amsterdam University of Applied Sciences ](https://www.hva.nl/opleidingen/technische-natuurkunde?gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW8J6TSsLU0mG2vc42vCjFNsoCOHChlRrnTe1n4uLo-vQi24qGCHGSgaAt7mEALw_wcB)
 - ⚡ Fun fact: I started programming at the age of 12
